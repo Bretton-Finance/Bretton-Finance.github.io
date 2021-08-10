@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.ac6c9200dc9f6c532c52341ee7bbee79.js"
+  "/precache-manifest.4f97f63dddae80920c7330bd3fac1f47.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "project-bretton"});
